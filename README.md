@@ -1,5 +1,5 @@
 # AviatrecMusic by ADigital
-
+# <img src="https://raw.githubusercontent.com/FlowMore-lab/AviatrecMusic/refs/heads/main/app_icon.ico" width="60" valign="middle"> AviatrecMusic by ADigital
 **AviatrecMusic** is a lightweight MUSIC client with a graphical user interface, developed specifically for working with the AviatrecMusic cloud storage. The application provides convenient access to files music on the server via the HTTPS protocol.
 
 ## Features
@@ -29,6 +29,7 @@
 |--------|------|
 |  RAR   | [Download from Aviatrec Cloud](http://94.190.58.137:5000/download_app)|
 |  RAR   | [Download from github](https://github.com/FlowMore-lab/AviatrecMusic/releases/download/Aviatrack/AviatrecMusic.rar)       |
+|  I
 
 ## System Requirements
 
